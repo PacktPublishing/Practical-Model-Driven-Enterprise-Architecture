@@ -1,0 +1,19 @@
+Name,Notes,type,stereotype,Version,"Inventory 
+Number","Purchase
+Date",License Type,"License
+Cost"," Maintenance 
+Cost "
+Redhat Linux,Operating System,class,ArchiMate_SystemSoftware,8,62863570,9/15/2015,Enterprise,0,0
+Microsoft Windows,Operating System,class,ArchiMate_SystemSoftware,10,68227296,9/15/2015,Per Seat,120,0
+Oracle Database Engine,Data Management,class,ArchiMate_SystemSoftware,13.1,17596855,5/1/2018,Enterprise,1650,82.5
+VMWare Virtual Machine,Operating System,class,ArchiMate_SystemSoftware,6.7,52017730,5/1/2018,Enterprise,1650,82.5
+Atlassian Jira,Bug Tracking,class,ArchiMate_SystemSoftware,8,20028419,5/1/2018,Enterprise,1950,97.5
+Apache Chainsaw,Log management,class,ArchiMate_SystemSoftware,2,93903139,5/1/2018,Per Seat,1950,97.5
+Nagios Nagios XI,System monitoring,class,ArchiMate_SystemSoftware,4.4.6,52445138,7/8/2019,Per Seat,2500,500
+Domo Domo ,Reporting,class,ArchiMate_SystemSoftware,5.1,35692923,7/8/2019,Per Seat,3500,700
+Oracle Golden Gate,ETL,class,ArchiMate_SystemSoftware,21c,20139775,7/8/2019,Per Seat,3500,700
+GravityZone Bitdefender,Security,class,ArchiMate_SystemSoftware,4.2,81308694,2/1/2020,Enterprise,200,10
+Rubrik Backup,Disaster Recovery,class,ArchiMate_SystemSoftware,5.2,31938190,11/12/2019,Per Seat,4500,900
+Microsoft Project,Project management,class,ArchiMate_SystemSoftware,2016,53381836,7/8/2019,Per Seat,4300,215
+Microsoft Office Pro,Office Productivity,class,ArchiMate_SystemSoftware,2019,26679201,7/8/2019,Per Seat,4300,215
+Sparxsystems Enterprise Architect,Modeling,class,ArchiMate_SystemSoftware,15.2,12342397,7/8/2019,Per Seat,240,91
