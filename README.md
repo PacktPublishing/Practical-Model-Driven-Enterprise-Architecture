@@ -47,3 +47,7 @@ is an enterprise architect with long, progressive experience in implementing TOG
 
 **Joe Williams**
 has over 40 years of experience in software engineering and architecture on many platforms and spanning several business domains, including retail, banking, health insurance, telecommunications, environment monitoring, and government systems. He holds a BS degree in information systems from the University of San Francisco and is a TOGAF® 9.1 certified practitioner. Joe preaches the practice of modeling every chance he gets. He is an expert in the Unified Modeling Language (UML) and has helped establish architecture practices at several organizations. He has been modeling solutions using Sparx Systems Enterprise Architect since 2007 and other modeling tools since 1995. He is currently retired and living in northern California.
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781801076166">https://packt.link/free-ebook/9781801076166 </a> </p>
